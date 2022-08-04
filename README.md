@@ -22,5 +22,4 @@ PROGRAM SEQUENCE:
 - upload (overwrite) the "app.db" file in the ps4, only if corrections were made
 - create a log file of the corrections done, stocked with the backuped DB
 
-https://www.youtube.com/watch?v=_LJO15vhjRw
-
+DEMO: https://www.youtube.com/watch?v=_LJO15vhjRw
