@@ -23,3 +23,11 @@ PROGRAM SEQUENCE:
 - create a log file of the corrections done, stocked with the backuped DB
 
 DEMO: https://www.youtube.com/watch?v=_LJO15vhjRw
+
+<details><summary>Screenshots before/after</summary>
+https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
+<br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_AFTER.PNG
+<br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_BEFORE.PNG
+<br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_AFTER.PNG
+</details>
+
