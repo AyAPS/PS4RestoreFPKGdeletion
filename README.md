@@ -47,4 +47,4 @@ https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
 Source code (<b>Please refer to this Github if you use this code</b>):
 <br />https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/PS4RestoreFPKGdeletion_v1.0.ps1
 
-<b>Thanks to testers :-)</b>
+<b>Thanks to testers 👍</b>
