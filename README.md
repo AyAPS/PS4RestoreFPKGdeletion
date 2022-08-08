@@ -22,7 +22,7 @@ PROGRAM SEQUENCE:
 - upload (overwrite) the "app.db" file in the ps4, only if corrections were made
 - create a log file of the corrections done, stocked with the backuped DB
 
-⁉️🔧🪛🧰<details><summary>POSSIBLE ERRORS:</summary>
+<details><summary>🔧⁉️ POSSIBLE ERRORS:</summary>
  <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_DLL.PNG
  <br /><b>You must not modify program arborescence, nor move PS4RestoreFPKGdeletion.exe</b></li>
  <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/3_PING.PNG
