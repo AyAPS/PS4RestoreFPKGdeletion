@@ -1,4 +1,3 @@
-🎮
 # PS4RestoreFPKGdeletion
 This tool restore XMB's option "Delete" on PS4 FPKGs when missing.<br />
 It download <i>"app.db"</i> file on computer then overwrite the one in the PS4 if corrections were made.
@@ -13,8 +12,8 @@ PREREQUISITES:
 - Download and install SQLite library (<b>don't change original location</b>): https://system.data.sqlite.org/downloads/1.0.113.0/sqlite-netFx46-setup-bundle-x64-2015-1.0.113.0.exe
 
 FUNCTIONING:
-- <b>PS4:</b> Launch your exploit, then the FTPS4 payload (useless for GoldHen but check the exploit is running)
-- <b>PC:</b> Launch PS4RestoreFPKGdeletion, inquire your PS4's IP address then push ENTER
+- 🎮 <b>PS4:</b> Launch your exploit, then the FTPS4 payload (useless for GoldHen but check the exploit is running)
+- 💻 <b>PC:</b> Launch PS4RestoreFPKGdeletion, inquire your PS4's IP address then push ENTER
 
 PROGRAM SEQUENCE:
 - download the "app.db" file from PS4 to computer, in the same folder as PS4RestoreFPKGdeletion.exe
@@ -23,7 +22,7 @@ PROGRAM SEQUENCE:
 - upload (overwrite) the "app.db" file in the ps4, only if corrections were made
 - create a log file of the corrections done, stocked with the backuped DB
 
-<details><summary>POSSIBLE ERRORS:</summary>
+⁉️🔧🪛🧰<details><summary>POSSIBLE ERRORS:</summary>
  <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_DLL.PNG
  <br /><b>You must not modify program arborescence, nor move PS4RestoreFPKGdeletion.exe</b></li>
  <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/3_PING.PNG
