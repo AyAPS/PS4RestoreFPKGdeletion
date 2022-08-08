@@ -22,6 +22,19 @@ PROGRAM SEQUENCE:
 - upload (overwrite) the "app.db" file in the ps4, only if corrections were made
 - create a log file of the corrections done, stocked with the backuped DB
 
+<details><summary>POSSIBLE ERRORS:</summary>
+https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_DLL.PNG
+<br /><b>You must not modify program arborescence, nor move PS4RestoreFPKGdeletion.exe</b>
+<br /><br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/3_PING.PNG
+<br />The IP address entered must'nt be the PS4's IP address, check your network and PS4 connectivity
+<br /><br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/4_PORT_FTP.PNG
+<br />Check that your PS4's exploit is running (GoldHen) or your PS4FTP payload is loaded
+<br /><br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/5_DOWNLOAD.PNG
+<br />This shouldn't happen, create an issue
+<br /><br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/6_UPLOAD.PNG
+<br />This shouldn't happen, create an issue
+</details> 
+
 DEMO: https://www.youtube.com/watch?v=_LJO15vhjRw
 
 <details><summary>Screenshots before/after</summary>
