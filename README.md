@@ -35,7 +35,7 @@ PROGRAM SEQUENCE:
  <br />This shouldn't happen, create an issue</li>
 </details> 
 
-<b>DEMO:</b> https://www.youtube.com/watch?v=_LJO15vhjRw
+📽️ <b>DEMO:</b> https://www.youtube.com/watch?v=_LJO15vhjRw
 
 <details><summary>Screenshots before/after</summary>
 https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
