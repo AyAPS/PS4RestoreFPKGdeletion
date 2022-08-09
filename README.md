@@ -12,8 +12,8 @@ It download <i>"app.db"</i> file on computer then overwrite the one in the PS4 i
 - Download and install SQLite library (<b>don't change original location</b>): https://system.data.sqlite.org/downloads/1.0.113.0/sqlite-netFx46-setup-bundle-x64-2015-1.0.113.0.exe
 
 <b>FUNCTIONING:</b>
-- 🎮 <b>PS4:</b> Launch your exploit, then the FTPS4 payload (useless for GoldHen but check the exploit is running)
-- 💻 <b>PC:</b> Launch PS4RestoreFPKGdeletion, inquire your PS4's IP address then push ENTER
+- :video_game: <b>PS4:</b> Launch your exploit, then the FTPS4 payload (useless for GoldHen but check the exploit is running)
+- :computer: <b>PC:</b> Launch PS4RestoreFPKGdeletion, inquire your PS4's IP address then push ENTER
 
 PROGRAM SEQUENCE:
 - download the "app.db" file from PS4 to computer, in the same folder as PS4RestoreFPKGdeletion.exe
@@ -22,7 +22,7 @@ PROGRAM SEQUENCE:
 - upload (overwrite) the "app.db" file in the ps4, only if corrections were made
 - create a log file of the corrections done, stocked with the backuped DB
 
-<details><summary>🔧⁉️ <b>POSSIBLE ERRORS:</b></summary>
+<details><summary>:wrench::interrobang: <b>POSSIBLE ERRORS:</b></summary>
  <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_DLL.PNG
  <br /><b>You must not modify program arborescence, nor move PS4RestoreFPKGdeletion.exe</b></li>
  <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/3_PING.PNG
@@ -35,7 +35,7 @@ PROGRAM SEQUENCE:
  <br />This shouldn't happen, create an issue</li>
 </details> 
 
-📽️ <b>DEMO:</b> https://www.youtube.com/watch?v=_LJO15vhjRw
+:film_projector: <b>DEMO:</b> https://www.youtube.com/watch?v=_LJO15vhjRw
 
 <details><summary>Screenshots before/after</summary>
 https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
@@ -47,4 +47,4 @@ https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
 Source code (<b>Please refer to this Github if you use this code</b>):
 <br />https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/PS4RestoreFPKGdeletion_v1.0.ps1
 
-<b>Thanks to testers 👍</b>
+<b>Thanks to testers :thumbsup:</b>
