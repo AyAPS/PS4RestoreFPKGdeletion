@@ -35,7 +35,7 @@ PROGRAM SEQUENCE:
  <br />This shouldn't happen, create an issue</li>
 </details> 
 
-:film_projector: <b>DEMO:</b> https://www.youtube.com/watch?v=_LJO15vhjRw
+:film_projector: <b>DEMO :</b> https://www.youtube.com/watch?v=_LJO15vhjRw
 
 <details><summary>Screenshots before/after</summary>
 https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
 <br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_AFTER.PNG
 </details>
 
-Source code (<b>Please refer to this Github if you use this code</b>):
-<br />https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/PS4RestoreFPKGdeletion_v1.0.ps1
+<sub>Source code (<b>Please refer to this Github if you use this code</b>):
+<br />https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/PS4RestoreFPKGdeletion_v1.1.ps1</sub>
 
 <b>Thanks to testers :thumbsup:</b>
