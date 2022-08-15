@@ -4,12 +4,9 @@ It download <i>"app.db"</i> file on computer then overwrite the one in the PS4 i
 ## The PS4 must be rebooted to reload the DB with corrections !
 
 <b>Tested on multiple systems:<br /></b>
-- <b>FW:</b> 5.05 - 6.72 - 7.55
+- <b>FW:</b> 5.05 - 6.72 - 7.55 - 9.0
 - <b>FTP:</b> FTPS4 - GoldHen
 - <b>STORAGE:</b> Internal storage - App2USB - (no tester found for S0ny's offcial extended storage)
-
-<b>PREREQUISITES:</b>
-- Download and install SQLite library (<b>don't change original location</b>): https://system.data.sqlite.org/downloads/1.0.113.0/sqlite-netFx46-setup-bundle-x64-2015-1.0.113.0.exe
 
 <b>FUNCTIONING:</b>
 - :video_game: <b>PS4:</b> Launch your exploit, then the FTPS4 payload (useless for GoldHen but check the exploit is running)
@@ -25,6 +22,8 @@ PROGRAM SEQUENCE:
 <details><summary>:wrench::interrobang: <b>POSSIBLE ERRORS:</b></summary>
  <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_DLL.PNG
  <br /><b>You must not modify program arborescence, nor move PS4RestoreFPKGdeletion.exe</b></li>
+ <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_pattern_IP.PNG
+ <br />What you entered isn't an IP address, type a <b>real</b> IP address</li>
  <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/3_PING.PNG
  <br />The IP address entered must'nt be the PS4's IP address, check your network and PS4 connectivity</li>
  <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/4_PORT_FTP.PNG
@@ -33,9 +32,9 @@ PROGRAM SEQUENCE:
  <br />This shouldn't happen, create an issue</li>
  <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/6_UPLOAD.PNG
  <br />This shouldn't happen, create an issue</li>
-</details> 
+</details>
 
-:film_projector: <b>DEMO :</b> https://www.youtube.com/watch?v=_LJO15vhjRw
+:film_projector: <b>DEMO (<i>v1.0</i>) : </b> https://www.youtube.com/watch?v=_LJO15vhjRw
 
 <details><summary>Screenshots before/after</summary>
 https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
@@ -44,7 +43,18 @@ https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
 <br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_AFTER.PNG
 </details>
 
+<details><summary>:new: <b>CHANGELOG:</b></summary>
+<br /><i>v1.1 :</i>
+<br /><br />SQLite dependency integrated, no more need to install System.Data.SQLite as a prerequisite. <b>Those who installed it can uninstall it</b>.
+<br /><br />Removal of the use of the Internet Explorer engine (deprecated) in favor of <code>-UseBasicParsing</code> (<i><code>Invoke-WebRequest</code></i>).
+<br /><br />Added check that entered IP is <b>really</b> an IP address.
+<br /><br />:uk: translation added, if your Windows OS language isn't :fr:, program's text will be in :uk:
+<br /><br />Tested on FW 9.0
+<br />------------------------------------------------------------------------------------------------------------------------------------------------
+<br /><br /><i>v1.0 :</i> https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/README_PS4RestoreFPKGdeletion_v1.0.md
+</details>
+
 <sub>Source code (<b>Please refer to this Github if you use this code</b>):
-<br />https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/PS4RestoreFPKGdeletion_v1.0.ps1</sub>
+<br />https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/PS4RestoreFPKGdeletion_v1.1.ps1</sub>
 
 <b>Thanks to testers :thumbsup:</b>
