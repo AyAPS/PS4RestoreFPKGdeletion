@@ -9,7 +9,7 @@ It download <i>"app.db"</i> file on computer then overwrite the one in the PS4 i
 - <b>STORAGE:</b> Internal storage - App2USB - (no tester found for S0ny's offcial extended storage)
 
 <b>FUNCTIONING:</b>
-- :video_game: <b>PS4:</b> Launch your exploit, then the FTPS4 payload (useless for GoldHen but check the exploit is running)
+- :video_game: <b>PS4:</b> Launch your exploit, then the FTPS4 payload (useless for GoldHen but check the FTP Server is enabled)
 - :computer: <b>PC:</b> Launch PS4RestoreFPKGdeletion, inquire your PS4's IP address then push ENTER
 
 PROGRAM SEQUENCE:
