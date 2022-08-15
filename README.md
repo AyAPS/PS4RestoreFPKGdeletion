@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
 <br /><br />Added check that entered IP is <b>really</b> an IP address.
 <br /><br />:uk: translation added, if your Windows OS language isn't :fr:, program's text will be in :uk:
 <br /><br />Tested on FW 9.0
-<br />------------------------------------------------------------------------------------------------------------------------------------------------
+<br />---------------------------------------------------------------------------------------------------------------------------------
 <br /><br /><i>v1.0 :</i> https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/README_PS4RestoreFPKGdeletion_v1.0.md
 </details>
 
