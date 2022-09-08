@@ -1,12 +1,13 @@
 # PS4RestoreFPKGdeletion
 This tool restore XMB's option "Delete" on PS4 FPKGs when missing.<br />
 It download <i>"app.db"</i> file on computer then overwrite the one in the PS4 if corrections were made.
-## The PS4 must be rebooted to reload the DB with corrections !
+## :warning: The PS4 must be rebooted to reload the DB with corrections :warning:
+[![PS4RestoreFPKGdeletion ALL releases](https://img.shields.io/github/downloads/AyAPS/PS4RestoreFPKGdeletion/total.svg)](https://GitHub.com/AyAPS/PS4RestoreFPKGdeletion/releases/)
 
 <b>Tested on multiple systems:<br /></b>
 - <b>FW:</b> 5.05 - 6.72 - 7.55 - 9.0
 - <b>FTP:</b> FTPS4 - GoldHen
-- <b>STORAGE:</b> Internal storage - App2USB - (no tester found for S0ny's offcial extended storage)
+- <b>STORAGE:</b> Internal storage - App2USB - (no tester found for S0ny's offcial extended storage but it should work)
 
 <b>FUNCTIONING:</b>
 - :video_game: <b>PS4:</b> Launch your exploit, then the FTPS4 payload (useless for GoldHen but check the FTP Server is enabled)
@@ -20,27 +21,35 @@ PROGRAM SEQUENCE:
 - create a log file of the corrections done, stocked with the backuped DB
 
 <details><summary>:wrench::interrobang: <b>POSSIBLE ERRORS:</b></summary>
- <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_DLL.PNG
- <br /><b>You must not modify program arborescence, nor move PS4RestoreFPKGdeletion.exe</b></li>
- <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_pattern_IP.PNG
- <br />What you entered isn't an IP address, type a <b>real</b> IP address</li>
- <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/3_PING.PNG
- <br />The IP address entered must'nt be the PS4's IP address, check your network and PS4 connectivity</li>
- <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/4_PORT_FTP.PNG
- <br />Check that your PS4's exploit is running (GoldHen) or your PS4FTP payload is loaded</li>
- <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/5_DOWNLOAD.PNG
- <br />This shouldn't happen, create an issue</li>
- <br /><li>https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/6_UPLOAD.PNG
- <br />This shouldn't happen, create an issue</li>
+
+<br />![1_DLL](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_DLL.PNG?raw=true)
+<br /><b>You must not modify program arborescence, nor move PS4RestoreFPKGdeletion.exe</b></li>
+
+![2_pattern_IP](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_pattern_IP.PNG?raw=true)
+<br />What you entered isn't an IP address, type a <b>real</b> IP address</li>
+
+![3_PING](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/3_PING.PNG?raw=true)
+<br />The IP address entered must'nt be the PS4's IP address, check your network and PS4 connectivity</li>
+
+![4_PORT_FTP](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/4_PORT_FTP.PNG?raw=true)
+<br />Check that your PS4's exploit is running (GoldHen) or your PS4FTP payload is loaded</li>
+
+![5_DOWNLOAD](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/5_DOWNLOAD.PNG?raw=true)
+<br />This shouldn't happen, create an issue</li>
+
+![6_UPLOAD](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/6_UPLOAD.PNG?raw=true)
+<br />This shouldn't happen, create an issue</li>
 </details>
 
 :film_projector: <b>DEMO (<i>v1.0</i>) : </b> https://www.youtube.com/watch?v=_LJO15vhjRw
 
 <details><summary>Screenshots before/after</summary>
-https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG
-<br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_AFTER.PNG
-<br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_BEFORE.PNG
-<br />https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_AFTER.PNG
+
+![1_BEFORE](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG?raw=true)
+![1_AFTER](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_AFTER.PNG?raw=true)
+
+![2_BEFORE](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_BEFORE.PNG?raw=true)
+![2_AFTER](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/2_AFTER.PNG?raw=true)
 </details>
 
 <details><summary>:new: <b>CHANGELOG:</b></summary>
