@@ -29,7 +29,7 @@ PROGRAM SEQUENCE:
 <br />What you entered isn't an IP address, type a <b>real</b> IP address</li>
 
 ![3_PING](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/3_PING.PNG?raw=true)
-<br />The IP address entered must'nt be the PS4's IP address, check your network and PS4 connectivity</li>
+<br />The IP address entered mustn't be the PS4's IP address, check your network and PS4 connectivity</li>
 
 ![4_PORT_FTP](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/4_PORT_FTP.PNG?raw=true)
 <br />Check that your PS4's exploit is running (GoldHen) or your PS4FTP payload is loaded</li>
