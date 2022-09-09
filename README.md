@@ -53,14 +53,15 @@ PROGRAM SEQUENCE:
 </details>
 
 <details><summary>:new: <b>CHANGELOG:</b></summary>
-<br /><i>v1.1 :</i>
-<br /><br />SQLite dependency integrated, no more need to install System.Data.SQLite as a prerequisite. <b>Those who installed it can uninstall it</b>.
+<br /><i><b>v1.1 :</b></i>
+<br /><br />SQLite dependency integrated, no more need to install System.Data.SQLite as a prerequisite. Those who installed it can uninstall it.
 <br /><br />Removal of the use of the Internet Explorer engine (deprecated) in favor of <code>-UseBasicParsing</code> (<i><code>Invoke-WebRequest</code></i>).
 <br /><br />Added check that entered IP is <b>really</b> an IP address.
 <br /><br />:uk: translation added, if your Windows OS language isn't :fr:, program's text will be in :uk:
 <br /><br />Tested on FW 9.0
 <br />---------------------------------------------------------------------------------------------------------------------------------
-<br /><br /><i>v1.0 :</i> https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/README_PS4RestoreFPKGdeletion_v1.0.md
+<br /><br /><i><b>v1.0 :</b></i>
+<br />https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/README_PS4RestoreFPKGdeletion_v1.0.md
 </details>
 
 <sub>Source code (<b>Please refer to this Github if you use this code</b>):
