@@ -57,7 +57,7 @@ PROGRAM SEQUENCE:
 <br /><i><b>v1.1 :</b></i>
 <br /><br />SQLite dependency integrated, no more need to install System.Data.SQLite as a prerequisite. Those who installed it can uninstall it.
 <br /><br />Removal of the use of the Internet Explorer engine (deprecated) in favor of <code>-UseBasicParsing</code> (<i><code>Invoke-WebRequest</code></i>).
-<br /><br />Added check that entered IP is <b>really</b> an IP address.
+<br /><br />Added check that entered IP is <b>really</b> an IP address (RegEx).
 <br /><br />:uk: translation added, if your Windows OS language isn't :fr:, program's text will be in :uk:
 <br /><br />Tested on FW 9.0
 <br/>__________________________________________________________________________________________________________________________________________
