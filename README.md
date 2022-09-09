@@ -1,6 +1,7 @@
 # PS4RestoreFPKGdeletion
 [![PS4RestoreFPKGdeletion ALL releases](https://img.shields.io/github/downloads/AyAPS/PS4RestoreFPKGdeletion/total?style=for-the-badge)](https://GitHub.com/AyAPS/PS4RestoreFPKGdeletion/releases/)
 <br />[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) - Code can be adapted to [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) & [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+<br>:uk: / :fr:
 <br /><br />This tool restore XMB's option "Delete" on PS4 FPKGs when missing.<br />
 It download <i>"app.db"</i> file on computer then overwrite the one in the PS4 if corrections were made.
 ## :warning: The PS4 must be rebooted to reload the DB with corrections :warning:
