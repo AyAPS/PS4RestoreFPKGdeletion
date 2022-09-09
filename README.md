@@ -59,7 +59,7 @@ PROGRAM SEQUENCE:
 <br /><br />Added check that entered IP is <b>really</b> an IP address.
 <br /><br />:uk: translation added, if your Windows OS language isn't :fr:, program's text will be in :uk:
 <br /><br />Tested on FW 9.0
-<br /><b>____________________________________________________________________________________________________________________________________</b>
+<br /><b>______________________________________________________________________________________________________________________________________________</b>
 <br /><br /><i><b>v1.0 :</b></i>
 <br />https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/README_PS4RestoreFPKGdeletion_v1.0.md
 </details>
