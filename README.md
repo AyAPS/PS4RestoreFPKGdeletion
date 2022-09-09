@@ -62,7 +62,7 @@ PROGRAM SEQUENCE:
 <br /><br />Tested on FW 9.0
 <br/>__________________________________________________________________________________________________________________________________________
 <br/><br /><i><b>v1.0 :</b></i>
-<br />https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/README_PS4RestoreFPKGdeletion_v1.0.md
+<br /><br />https://github.com/AyAPS/PS4RestoreFPKGdeletion/blob/main/README_PS4RestoreFPKGdeletion_v1.0.md
 <br/>__________________________________________________________________________________________________________________________________________
 </details>
 
