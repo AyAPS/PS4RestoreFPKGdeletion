@@ -43,7 +43,7 @@ PROGRAM SEQUENCE:
 
 :film_projector: <b>DEMO (<i>v1.0</i>) : </b> https://www.youtube.com/watch?v=_LJO15vhjRw
 
-<details><summary>Screenshots before/after</summary>
+<details><summary>Screenshots before :x: / after :heavy_check_mark:</summary>
 
 ![1_BEFORE](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_BEFORE.PNG?raw=true)
 ![1_AFTER](https://raw.githubusercontent.com/AyAPS/PS4RestoreFPKGdeletion/main/1_AFTER.PNG?raw=true)
