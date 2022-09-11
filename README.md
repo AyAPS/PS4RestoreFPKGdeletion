@@ -5,7 +5,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)<br />
 :uk: / :fr:
 
-This tool restore XMB's option "Delete" on PS4 FPKGs when missing.<br />
+This "portable" tool restore XMB's option "Delete" on PS4 FPKGs when missing.<br />
 It download <i>"app.db"</i> file on computer then overwrite the one in the PS4 if corrections were made.
 ## :warning: The PS4 must be rebooted to reload the DB with corrections :warning:
 
@@ -60,7 +60,7 @@ PROGRAM SEQUENCE:
 <details><summary>:new: <b>CHANGELOG:</b></summary>
   
 <br /><i><b>v1.1 :</b></i>
-<br /><br />- SQLite dependency integrated, no more need to install System.Data.SQLite as a prerequisite. Those who installed it can uninstall it.
+<br /><br />- SQLite dependency integrated, no more need to install System.Data.SQLite as a prerequisite making the tool "portable". Those who installed it can uninstall it.
 <br />- Removal of the use of the Internet Explorer engine (deprecated) in favor of <code>-UseBasicParsing</code> (<i><code>Invoke-WebRequest</code></i>).
 <br />- Added check that entered IP is <b>really</b> an IP address (RegEx).
 <br />- :uk: translation added, if your Windows OS language isn't :fr:, program's text will be in :uk:
