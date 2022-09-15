@@ -1,5 +1,5 @@
 # PS4RestoreFPKGdeletion
-[![PS4RestoreFPKGdeletion ALL releases](https://img.shields.io/github/downloads/AyAPS/PS4RestoreFPKGdeletion/total?)](https://GitHub.com/AyAPS/PS4RestoreFPKGdeletion/releases/)
+[![PS4RestoreFPKGdeletion ALL releases](https://img.shields.io/github/downloads/AyAPS/PS4RestoreFPKGdeletion/total?style=for-the-badge)](https://GitHub.com/AyAPS/PS4RestoreFPKGdeletion/releases/)
 <br />[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) - Code can be adapted to [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) & [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 <br>[![PS](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=black)](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=black)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)<br />
